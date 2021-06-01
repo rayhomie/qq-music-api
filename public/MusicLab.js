@@ -1,0 +1,1 @@
+(self.webpackChunkreact_qq_music=self.webpackChunkreact_qq_music||[]).push([[310],{5292:(e,t,c)=>{"use strict";c.r(t),c.d(t,{default:()=>r});var u=c(863);const r=function(e){return u.createElement("div",{style:{height:1e3,width:300,backgroundColor:"pink"}},"MusicLab")}}}]);
